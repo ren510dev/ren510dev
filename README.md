@@ -6,7 +6,7 @@ Hello, My name is GotoRen 👋
 
 ### Location
   - 📚 Laboratory：https://pluslab.org
-  - 📝　Qiita：https://qiita.com/ren1007
+  - 📝 Qiita：https://qiita.com/ren1007
 
 #### GitHub Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GotoRen&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![](https://raw.githubusercontent.com/GotoRen/GotoRen/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
