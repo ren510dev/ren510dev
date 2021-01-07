@@ -1,7 +1,7 @@
 Hello, My name is GotoRen 👋
 
 ### Profile
-🔭  I wand to be a Network Engineers.<br>
+🔭  I want to be an infrastructure engineer including network engineer and cloud engineer.<br>
 🌱  I usually study network systems. and I am a member of the naito-pluslab.
 
 ### Location
