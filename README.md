@@ -11,5 +11,3 @@
 
 💻 `Laboratory` 👉&nbsp;https://pluslab.org<br>
 ✏️ `Qiita`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👉  https://qiita.com/ren1007
-
-
