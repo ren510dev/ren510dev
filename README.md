@@ -1,9 +1,8 @@
 ### Hi there 👋
-🚀 Hello, My name is GotoRen 
+🚀 Hello, My name is GotoRen 😁
 
-### Profile 📝
-🔭  I want to be an infrastructure engineer including network engineer and cloud engineer.<br>
-🌱  I usually study network systems. and I am a member of the AIT-pluslab.
+### 🔭 Profile
+I'm developing overlay network protocols at @Pluslab, usually studying infrastructure in general, such as networks and clouds. I'm dreaming to become an infrastructure engineer, including network engineers and cloud engineers.
 
 ### GitHub Status 📚
 [![trophy](https://github-profile-trophy.vercel.app/?username=GotoRen&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Issue,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
