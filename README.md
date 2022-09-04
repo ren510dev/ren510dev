@@ -31,53 +31,6 @@ Here are some ideas to get you started:
   <a href="https://speakerdeck.com/ren510dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/speakerdeck.svg" alt="ren510dev" height="30" width="40" /></a>
 </p>
 
-<h4 align="left">Laboratory:</h4>
-<a href="https://pluslab.org" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112791825/188297664-f378eada-35db-4139-9198-f7980199785f.svg" alt="Pluslab" height="30" width="40" /></a>
-
-<h4 align="left">Publications:</h4>
-
-<img align="center" src="https://user-images.githubusercontent.com/63791288/188320997-c2d695ea-5fcb-46be-9715-b16f9469b59d.png" alt="IEEE" height="40" width="50" />
-<img align="center" src="https://user-images.githubusercontent.com/63791288/188321001-f76a8afb-75d0-4fab-bb27-102fc936cc17.png" alt="IIIS" height="40" width="50" />
-<img align="center" src="https://user-images.githubusercontent.com/63791288/188321002-4f136e57-da2c-44c9-95ab-8247eee25452.png" alt="IPSJ" height="40" width="50" />
-<img align="center" src="https://user-images.githubusercontent.com/63791288/188320998-59748736-451a-4118-9d96-44699d81514c.png" alt="IEICE" height="40" width="50" />
-
-- Journal: IEICE Communications Express: ComEX 2022
-  - In progress.
-  - Design of new CYPHONIC adapter focused on packet sequential processing scheme
-  - In progress.
-- Journal:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022
-  - In progress.
-  - Design and Basic Evaluation of Virtual IPv4-based CYPHONIC adapter
-  - In progress.
-- Conference: The 11th IEEE Global Conference on Consumer Electronics: GCCE 2022
-  - October 2022.
-  - Proposal of an extended CYPHONIC adapter supporting general nodes using virtual IPv6 addresses
-  - In progress.
-- Conference: The 26th IIIS World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2022
-  - July 2022.
-  - Extension mechanism of overlay network protocol to support digital authenticates
-  - https://www.iiis.org/DOI2022/SA050QX/
-- Conference: The 13th IIIS International Multi-Conference on Complexity, Informatics and Cybernetics: IMCIC 2022
-  - March 2022.
-  - Design and Basic Evaluation of Virtual IPv4-based CYPHONIC adapter
-  - https://www.iiis.org/DOI2022/ZA359HK/
-- Conference: The 33th IPSJ Consumer Devices & System: CDS 2022
-  - January 2022.
-  - 仮想IPv4アドレスを想定したCYPHONICアダプタの設計と基礎評価
-  - https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202202291942447619
-- Conference: The 19th IEEE ConsumerCommunications&NetworkingConference: CCNC 2022
-  - January 2022.
-  - Demonstration of video conferencing tool with overlay network protocol
-  - https://ieeexplore.ieee.org/document/9700703
-- Conference: The 40th IEEE International Conference on Consumer Electronics: ICCE 2022
-  - January 2022.
-  - Evaluation of new CYPHONIC: Overlay network protocol based on Go language
-  - https://ieeexplore.ieee.org/document/9730323
-- Conference: 令和三年度 電気・電子・情報関係学会 東海支部連合大会
-  - September 2021.
-  - iOSにおけるアプリケーション内独自プロトコル実装に関する一検討
-  - https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202266081463947
-
 <h4 align="left">Github stats</h4>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -138,3 +91,47 @@ Here are some ideas to get you started:
   <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   alt="typescript" width="40" height="40" /></a>
+
+<h4 align="left">Laboratory:</h4>
+<a href="https://pluslab.org" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112791825/188297664-f378eada-35db-4139-9198-f7980199785f.svg" alt="Pluslab" height="30" width="40" /></a>
+
+<h4 align="left">Publications:</h4>
+
+<img align="center" src="https://user-images.githubusercontent.com/63791288/188320997-c2d695ea-5fcb-46be-9715-b16f9469b59d.png" alt="IEEE" height="40" width="50" /><img align="center" src="https://user-images.githubusercontent.com/63791288/188321001-f76a8afb-75d0-4fab-bb27-102fc936cc17.png" alt="IIIS" height="40" width="50" /><img align="center" src="https://user-images.githubusercontent.com/63791288/188321002-4f136e57-da2c-44c9-95ab-8247eee25452.png" alt="IPSJ" height="40" width="50" /><img align="center" src="https://user-images.githubusercontent.com/63791288/188320998-59748736-451a-4118-9d96-44699d81514c.png" alt="IEICE" height="40" width="50" />
+
+- Journal: IEICE Communications Express: ComEX 2022
+  - In progress.
+  - Design of new CYPHONIC adapter focused on packet sequential processing scheme
+  - In progress.
+- Journal:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022
+  - In progress.
+  - Design and Basic Evaluation of Virtual IPv4-based CYPHONIC adapter
+  - In progress.
+- Conference: The 11th IEEE Global Conference on Consumer Electronics: GCCE 2022
+  - October 2022.
+  - Proposal of an extended CYPHONIC adapter supporting general nodes using virtual IPv6 addresses
+  - In progress.
+- Conference: The 26th IIIS World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2022
+  - July 2022.
+  - Extension mechanism of overlay network protocol to support digital authenticates
+  - https://www.iiis.org/DOI2022/SA050QX/
+- Conference: The 13th IIIS International Multi-Conference on Complexity, Informatics and Cybernetics: IMCIC 2022
+  - March 2022.
+  - Design and Basic Evaluation of Virtual IPv4-based CYPHONIC adapter
+  - https://www.iiis.org/DOI2022/ZA359HK/
+- Conference: The 33th IPSJ Consumer Devices & System: CDS 2022
+  - January 2022.
+  - 仮想IPv4アドレスを想定したCYPHONICアダプタの設計と基礎評価
+  - https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202202291942447619
+- Conference: The 19th IEEE ConsumerCommunications&NetworkingConference: CCNC 2022
+  - January 2022.
+  - Demonstration of video conferencing tool with overlay network protocol
+  - https://ieeexplore.ieee.org/document/9700703
+- Conference: The 40th IEEE International Conference on Consumer Electronics: ICCE 2022
+  - January 2022.
+  - Evaluation of new CYPHONIC: Overlay network protocol based on Go language
+  - https://ieeexplore.ieee.org/document/9730323
+- Conference: 令和三年度 電気・電子・情報関係学会 東海支部連合大会
+  - September 2021.
+  - iOSにおけるアプリケーション内独自プロトコル実装に関する一検討
+  - https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202266081463947
