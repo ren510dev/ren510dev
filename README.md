@@ -46,6 +46,59 @@ IEICE2021：https://researchmap.jp/katsuhiro.naito/published_papers/33415745<br>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GotoRen&theme=onedark&column=7)](https://github.com/GotoRen/github-profile-trophy)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GotoRen&include_all_commits=true&hide=contribs,prs,issues&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GotoRen&include_all_commits=true&hide=contribs,prs,issues&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GotoRen&hide=html,css&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GotoRen&hide=html,css&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GotoRen&theme=onedark&column=8)](https://github.com/GotoRen/github-profile-trophy)
+
+<h4 align="left">Languages and Tools:</h4>
+<p align="left"> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  alt="aws" width="40" height="40" /></a> 
+  <a href="https://cloud.google.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+  alt="gcp" width="40" height="40" /></a>
+  <a href="https://www.terraform.io//" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"
+  alt="terraform" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+  alt="docker" width="40" height="40" /></a>
+  <a href="https://kubernetes.io//" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
+  alt="kubernetes" width="40" height="40" /></a>
+  <a href="https://golang.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" 
+  alt="go" width="40"height="40" /></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+  alt="javascript" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+  alt="bash" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+  alt="git" width="40" height="40" /></a>
+  <a href="https://www.linux.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+  alt="linux" width="40" height="40" /></a> 
+  <a href="https://www.mysql.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+  alt="mysql" width="40" height="40" /></a> 
+  <a href="https://nodejs.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+  alt="nodejs" width="40" height="40" /></a> 
+  <a href="https://www.python.org" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+  alt="python" width="40" height="40" /></a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+  alt="react" width="40" height="40" /></a> 
+  <a href="https://redis.io" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+  alt="redis" width="40" height="40" /></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+  alt="typescript" width="40" height="40" /></a>
