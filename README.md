@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+For Visitors ! 
+
+This account has not been activated yet. 
+
+See here: [https://github.com/GotoRen](https://github.com/GotoRen)
