@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://user-images.githubusercontent.com/63791288/188320997-c2d695ea-5fcb-46be-9715-b16f9469b59d.png" alt="IEEE" height="40" width="50" />&emsp;<img align="center" src="https://user-images.githubusercontent.com/63791288/188321001-f76a8afb-75d0-4fab-bb27-102fc936cc17.png" alt="IIIS" height="40" width="50" />&emsp;<img align="center" src="https://user-images.githubusercontent.com/63791288/188321002-4f136e57-da2c-44c9-95ab-8247eee25452.png" alt="IPSJ" height="40" width="50" />&emsp;<img align="center" src="https://user-images.githubusercontent.com/63791288/188320998-59748736-451a-4118-9d96-44699d81514c.png" alt="IEICE" height="40" width="50" />&emsp;
 
 <details>
-<summary><h4>執筆・登壇・受賞歴（クリックでpull-downを表示）</h4></summary>
+<summary><h4>執筆論文・登壇・受賞歴（クリックでpull-downを表示）</h4></summary>
 
 - Journal: IEICE Communications Express: ComEX 2022
   - In progress.
