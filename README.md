@@ -103,10 +103,6 @@ Here are some ideas to get you started:
 <details>
 <summary><h4>執筆論文・登壇・受賞歴（クリックでpull-downを表示）</h4></summary>
 
-- 【IEEE】Conference: The 4th Global Conference on Life Sciences and Technologies: LifeTech 2022
-  - March 2023.
-  - In progress.
-  - In progress.
 - <u>**【IEICE】Journal</u>: IEICE Communications Express: ComEX 2022**
   - In progress.
   - Design of new CYPHONIC adapter focused on packet sequential processing scheme
