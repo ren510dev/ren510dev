@@ -103,47 +103,51 @@ Here are some ideas to get you started:
 <details>
 <summary><h4>執筆論文・登壇・受賞歴（クリックでpull-downを表示）</h4></summary>
 
-- Conference: The 20th IPSJ IEEE Workshop on Informatics: WiNF 2022
-  - December 2022.
-  - CYPHONICサーバ群のオートスケーリングのためのメモリ管理手法に関する検討
+- 【IEEE】Conference: The 4th Global Conference on Life Sciences and Technologies: LifeTech 2022
+  - March 2023.
   - In progress.
-- <u>**Journal</u>: IEICE Communications Express: ComEX 2022**
+  - In progress.
+- 【IEICE】<u>**Journal</u>: IEICE Communications Express: ComEX 2022**
   - In progress.
   - Design of new CYPHONIC adapter focused on packet sequential processing scheme
   - In progress.
-- <u>**Journal</u>:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022**
+- 【IPSJ】Conference: The 20th IPSJ IEEE Workshop on Informatics: WiNF 2022
+  - December 2022.
+  - CYPHONICサーバ群のオートスケーリングのためのメモリ管理手法に関する検討
+  - In progress.
+- 【IIIS】<u>**Journal</u>:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022**
   - In progress.
   - Extension mechanism of overlay network protocol to support digital authenticates
   - In progress.
-- <u>**Journal</u>:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022**
+- 【IIIS】<u>**Journal</u>:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022**
   - October 2022.
   - Design and Basic Evaluation of Virtual IPv4-based CYPHONIC adapter
   - https://www.iiisci.org/DOIJSCI/ZA359HK22/
-- Conference: The 11th IEEE Global Conference on Consumer Electronics: GCCE 2022
+- 【IEEE】Conference: The 11th IEEE Global Conference on Consumer Electronics: GCCE 2022
   - October 2022.
   - Proposal of an extended CYPHONIC adapter supporting general nodes using virtual IPv6 addresses
   - In progress.
-- Conference: The 26th IIIS World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2022
+- 【IIIS】Conference: The 26th IIIS World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2022
   - July 2022.
   - Extension mechanism of overlay network protocol to support digital authenticates
   - https://www.iiis.org/DOI2022/SA050QX/
-- Conference: The 13th IIIS International Multi-Conference on Complexity, Informatics and Cybernetics: IMCIC 2022
+- 【IIIS】Conference: The 13th IIIS International Multi-Conference on Complexity, Informatics and Cybernetics: IMCIC 2022
   - March 2022.
   - Design and Basic Evaluation of Virtual IPv4-based CYPHONIC adapter
   - https://www.iiis.org/DOI2022/ZA359HK/
-- Conference: The 33th IPSJ Consumer Devices & System: CDS 2022
+- 【IPSJ】Conference: The 33th IPSJ Consumer Devices & System: CDS 2022
   - January 2022.
   - 仮想IPv4アドレスを想定したCYPHONICアダプタの設計と基礎評価
   - https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202202291942447619
-- Conference: The 19th IEEE ConsumerCommunications&NetworkingConference: CCNC 2022
+- 【IEEE】Conference: The 19th IEEE ConsumerCommunications&NetworkingConference: CCNC 2022
   - January 2022.
   - Demonstration of video conferencing tool with overlay network protocol
   - https://ieeexplore.ieee.org/document/9700703
-- Conference: The 40th IEEE International Conference on Consumer Electronics: ICCE 2022
+- 【IEEE】Conference: The 40th IEEE International Conference on Consumer Electronics: ICCE 2022
   - January 2022.
   - Evaluation of new CYPHONIC: Overlay network protocol based on Go language
   - https://ieeexplore.ieee.org/document/9730323
-- Conference: 令和三年度 電気・電子・情報関係学会 東海支部連合大会
+- 【IEICE】Conference: 令和三年度 電気・電子・情報関係学会 東海支部連合大会
   - September 2021.
   - iOSにおけるアプリケーション内独自プロトコル実装に関する一検討
   - https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202266081463947
