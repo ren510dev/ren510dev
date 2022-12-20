@@ -107,11 +107,15 @@ Here are some ideas to get you started:
   - December 2022.
   - CYPHONICサーバ群のオートスケーリングのためのメモリ管理手法に関する検討
   - In progress.
-- <u>**Journal**</u>: IEICE Communications Express: ComEX 2022
+- <u>**Journal</u>: IEICE Communications Express: ComEX 2022**
   - In progress.
   - Design of new CYPHONIC adapter focused on packet sequential processing scheme
   - In progress.
-- <u>**Journal**</u>:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022
+- <u>**Journal</u>:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022**
+  - In progress.
+  - Extension mechanism of overlay network protocol to support digital authenticates
+  - In progress.
+- <u>**Journal</u>:  IIIS  Journal of Systemics, Cybernetics and Informatics: JSCI 2022**
   - October 2022.
   - Design and Basic Evaluation of Virtual IPv4-based CYPHONIC adapter
   - https://www.iiisci.org/DOIJSCI/ZA359HK22/
