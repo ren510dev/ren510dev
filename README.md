@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <p align="right">
   <a href="https://twitter.com/ren510dev" target="blank"><img src="https://img.shields.io/twitter/follow/ren510dev?logo=twitter&style=for-the-badge" alt="GotoRen" /></a>
 </p>
+
+<h3 align="center">Site Reliability Engineer at @CyberAgent, Inc.</h3>
+<h3 align="center">Cloud Platform Engineer at @ABEMA, Inc.</h3>
 <h3 align="center">A developer of an overlay network protocol called CYPHONIC at @Pluslab.</h3>
 
 <h4 align="left">Connect with me:</h4>
