@@ -94,6 +94,14 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
   alt="typescript" width="40" height="40" /></a>
 
-<h4 align="left">Published on:</h4>
+<h4 align="left">Published:</h4>
 
-<img align="center" src="https://user-images.githubusercontent.com/63791288/188320997-c2d695ea-5fcb-46be-9715-b16f9469b59d.png" alt="IEEE" height="40" width="70" />&emsp;<img align="center" src="https://github.com/GotoRen/GotoRen/assets/63791288/1f624ca7-5444-46e9-b24f-182864cabfd0" alt="IIIC" height="40" width="50" />&emsp;<img align="center" src="https://user-images.githubusercontent.com/63791288/188321001-f76a8afb-75d0-4fab-bb27-102fc936cc17.png" alt="IIIS" height="40" width="50" />&emsp;<img align="center" src="https://user-images.githubusercontent.com/63791288/188321002-4f136e57-da2c-44c9-95ab-8247eee25452.png" alt="IPSJ" height="40" width="45" />&emsp;<img align="center" src="https://user-images.githubusercontent.com/63791288/188320998-59748736-451a-4118-9d96-44699d81514c.png" alt="IEICE" height="40" width="45" />
+<img align="center" width="75" alt="IEEE" src="https://github.com/user-attachments/assets/6009b988-331e-4e60-a13f-28b9469018f9" />
+&emsp;
+<img align="center" width="75" alt="JSCI" src="https://github.com/user-attachments/assets/799ea2b5-8734-4ea6-a10d-58bf2d2faa37" />
+&emsp;
+<img align="center" width="75" alt="IIIS" src="https://github.com/user-attachments/assets/36b82889-bf15-4b0a-82ff-f71545caeee1" />
+&emsp;
+<img align="center" width="75" alt="IPSJ" src="https://github.com/user-attachments/assets/12ecd7ae-89a3-49fb-927b-f7087e3ac304 "/>
+&emsp;
+<img align="center" width="75" alt="IEICE" src="https://github.com/user-attachments/assets/a706591b-3efa-4816-bcc3-929356fd2597" />
