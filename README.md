@@ -96,12 +96,12 @@ Here are some ideas to get you started:
 
 <h4 align="left">Published:</h4>
 
-<img align="center" width="75" alt="IEEE" src="https://github.com/user-attachments/assets/6009b988-331e-4e60-a13f-28b9469018f9" />
+<img align="center" width="45" alt="IEEE" src="https://github.com/user-attachments/assets/6009b988-331e-4e60-a13f-28b9469018f9" />
 &emsp;
-<img align="center" width="75" alt="JSCI" src="https://github.com/user-attachments/assets/799ea2b5-8734-4ea6-a10d-58bf2d2faa37" />
+<img align="center" width="45" alt="JSCI" src="https://github.com/user-attachments/assets/799ea2b5-8734-4ea6-a10d-58bf2d2faa37" />
 &emsp;
-<img align="center" width="75" alt="IIIS" src="https://github.com/user-attachments/assets/36b82889-bf15-4b0a-82ff-f71545caeee1" />
+<img align="center" width="45" alt="IIIS" src="https://github.com/user-attachments/assets/36b82889-bf15-4b0a-82ff-f71545caeee1" />
 &emsp;
-<img align="center" width="75" alt="IPSJ" src="https://github.com/user-attachments/assets/12ecd7ae-89a3-49fb-927b-f7087e3ac304 "/>
+<img align="center" width="45" alt="IPSJ" src="https://github.com/user-attachments/assets/12ecd7ae-89a3-49fb-927b-f7087e3ac304 "/>
 &emsp;
-<img align="center" width="75" alt="IEICE" src="https://github.com/user-attachments/assets/a706591b-3efa-4816-bcc3-929356fd2597" />
+<img align="center" width="45" alt="IEICE" src="https://github.com/user-attachments/assets/a706591b-3efa-4816-bcc3-929356fd2597" />
