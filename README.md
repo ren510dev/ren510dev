@@ -1,7 +1,7 @@
 <!--
 ### Hi there 👋
 
-**GotoRen/GotoRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ren510dev/ren510dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ren Goto.</h1>
 <p align="right">
-  <a href="https://twitter.com/ren510dev" target="blank"><img src="https://img.shields.io/twitter/follow/ren510dev?logo=twitter&style=for-the-badge" alt="GotoRen" /></a>
+  <a href="https://twitter.com/ren510dev" target="blank"><img src="https://img.shields.io/twitter/follow/ren510dev?logo=twitter&style=for-the-badge" alt="ren510dev" /></a>
 </p>
 
 <h3 align="center">Site Reliability Engineer at @CyberAgent, Inc.</h3>
@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GotoRen&include_all_commits=true&hide=contribs,prs,issues&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ren510dev&include_all_commits=true&hide=contribs,prs,issues&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GotoRen&hide=html,css&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ren510dev&hide=html,css&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GotoRen&theme=onedark&column=8)](https://github.com/GotoRen/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ren510dev&theme=onedark&column=8)](https://github.com/ren510dev/github-profile-trophy)
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
