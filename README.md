@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">Site Reliability Engineer at @CyberAgent, Inc.</h3>
-<h3 align="center">Cloud Platform Engineer at @ABEMA, Inc.</h3>
+<h3 align="center">Platform Engineer at @ABEMA, Inc.</h3>
 <h3 align="center">Overlay Network Protocol Developer at @Pluslab, Lab.</h3>
 
 <h4 align="left">Connect with me:</h4>
