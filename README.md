@@ -1,99 +1,112 @@
-<!--
-### Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:220000,50:4a1a1a,100:220000&height=220&section=header&text=ren510dev&fontColor=ff6b8a&fontSize=70&fontAlignY=35&desc=Site%20Reliability%20Engineer%20%7C%20Cloud%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=fdb8c0&animation=fadeIn" />
 
-**GotoRen/GotoRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![ORENGE DIARY](https://img.shields.io/badge/%F0%9F%8D%8A_ORENGE_DIARY-REN510.DEV-ff6b8a?style=for-the-badge&labelColor=220000)](https://ren510.dev)&nbsp;
+[![X](https://img.shields.io/badge/@ren510dev-ff6b8a?style=for-the-badge&logo=x&logoColor=white&labelColor=220000)](https://x.com/ren510dev)&nbsp;
+[![Speaker Deck](https://img.shields.io/badge/Speaker_Deck-ff6b8a?style=for-the-badge&logo=speakerdeck&logoColor=white&labelColor=220000)](https://speakerdeck.com/ren510dev)&nbsp;
+[![Qiita](https://img.shields.io/badge/Qiita-ff6b8a?style=for-the-badge&logo=qiita&logoColor=white&labelColor=220000)](https://qiita.com/ren510dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b8a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=220000)](https://www.linkedin.com/in/ren510dev)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-ff6b8a?style=for-the-badge&logo=facebook&logoColor=white&labelColor=220000)](https://facebook.com/ren510dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<h1 align="center">Hi 👋, I'm Ren Goto.</h1>
-<p align="right">
-  <a href="https://twitter.com/ren510dev" target="blank"><img src="https://img.shields.io/twitter/follow/ren510dev?logo=twitter&style=for-the-badge" alt="GotoRen" /></a>
-</p>
+<!-- ──────────────────────────── About ──────────────────────────── -->
 
-<h3 align="center">Site Reliability Engineer at @CyberAgent, Inc.</h3>
-<h3 align="center">Cloud Platform Engineer at @ABEMA, Inc.</h3>
-<h3 align="center">Overlay Network Protocol Developer at @Pluslab, Lab.</h3>
+<div align="center">
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-  <a href="https://twitter.com/ren510dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ren510dev" height="30" width="40" /></a>
-  <a href="https://facebook.com/ren510dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ren510dev" height="30" width="40" /></a>
-  <a href="https://qiita.com/ren510dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qiita.svg" alt="ren510dev" height="30" width="40" /></a>
-  <a href="https://note.com/ren510dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/112791825/188297367-c7420067-10bb-4145-b768-ea643d475115.svg" alt="ren510dev" height="50" width="60" /></a>
-  <a href="https://speakerdeck.com/ren510dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/speakerdeck.svg" alt="ren510dev" height="30" width="40" /></a>
-</p>
+**Site Reliability Engineer** at [@CyberAgent](https://github.com/CyberAgent) / **Cloud Platform Engineer** at [@ABEMA](https://github.com/AmebaTV)
 
-<h4 align="left">Github stats</h4>
+</div>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- ──────────────────────────── Stats ──────────────────────────── -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GotoRen&include_all_commits=true&hide=contribs,prs,issues&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GotoRen&hide=html,css&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=GotoRen&theme=onedark&column=8)](https://github.com/GotoRen/github-profile-trophy)
+<a href="https://github.com/ren510dev">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ren510dev&include_all_commits=true&show_icons=true&hide=contribs&title_color=ff6b8a&icon_color=d43d60&text_color=fdb8c0&bg_color=220000&border_color=4a1a1a&ring_color=d43d60&count_private=true" />
+</a>&nbsp;
+<a href="https://github.com/ren510dev">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ren510dev&theme=radical" />
+</a>
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-  alt="aws" width="40" height="40" /></a>
-  <a href="https://cloud.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-  alt="gcp" width="40" height="40" /></a>
-  <a href="https://www.terraform.io//" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg"
-  alt="terraform" width="40" height="40" /></a>
-  <a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-  alt="docker" width="40" height="40" /></a>
-  <a href="https://kubernetes.io//" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
-  alt="kubernetes" width="40" height="40" /></a>
-  <a href="https://golang.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-  alt="go" width="40"height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-  alt="bash" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-  alt="git" width="40" height="40" /></a>
-  <a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-  alt="linux" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-  alt="mysql" width="40" height="40" /></a>
-  <a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-  alt="nodejs" width="40" height="40" /></a>
-  <a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  alt="python" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-  alt="react" width="40" height="40" /></a>
-  <a href="https://redis.io" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-  alt="redis" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-  alt="typescript" width="40" height="40" /></a>
+<br><br>
 
-<h4 align="left">Published:</h4>
+<a href="https://github.com/ren510dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ren510dev&bg_color=220000&color=fdb8c0&line=d43d60&point=ff6b8a&area_color=4a1a1a&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=4a1a1a" />
+</a>
 
-<img align="center" width="45" alt="IEEE" src="https://github.com/user-attachments/assets/6009b988-331e-4e60-a13f-28b9469018f9" />&emsp;<img align="center" width="45" alt="JSCI" src="https://github.com/user-attachments/assets/799ea2b5-8734-4ea6-a10d-58bf2d2faa37" />&emsp;<img align="center" width="45" alt="IIIS" src="https://github.com/user-attachments/assets/36b82889-bf15-4b0a-82ff-f71545caeee1" />&emsp;<img align="center" width="45" alt="IPSJ" src="https://github.com/user-attachments/assets/12ecd7ae-89a3-49fb-927b-f7087e3ac304 "/>&emsp;<img align="center" width="45" alt="IEICE" src="https://github.com/user-attachments/assets/a706591b-3efa-4816-bcc3-929356fd2597" />
+</div>
+
+<!-- ──────────────────────── Tech Stack ──────────────────────── -->
+
+### Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+
+</div>
+
+<!-- ──────────────────────── Certifications ──────────────────────── -->
+
+### Certifications
+
+<div align="center">
+
+**Google Cloud**
+
+<a href="https://www.credly.com/badges/101a4561-35ed-43f5-a919-eb4dda967a09"><img width="80" alt="ACE" src="assets/badge/google-cloud/associate-cloud-engineer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/59ad9cd5-f77f-4b8b-85fc-2e772715ef2f"><img width="80" alt="PCA" src="assets/badge/google-cloud/professional-cloud-architect.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/067c9158-711b-422e-8ca8-c1e29a9235f6"><img width="80" alt="PCDE" src="assets/badge/google-cloud/professional-cloud-database-engineer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/f8629fc1-d0d5-4e93-96dd-1a31533ac5f6"><img width="80" alt="PCD" src="assets/badge/google-cloud/professional-cloud-developer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/892837ef-2888-4fdb-ba16-1a3b2cd258d6"><img width="80" alt="PDE" src="assets/badge/google-cloud/professional-data-engineer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/121d1d3e-5601-437c-874d-8fe7766319b9"><img width="80" alt="PCDOE" src="assets/badge/google-cloud/professional-cloud-devops-engineer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/6f30e11a-eeb8-4b33-aba7-d29ee0ae1fbf"><img width="80" alt="PCSE" src="assets/badge/google-cloud/professional-cloud-security-engineer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/432e3b05-5c5d-4fe9-9b17-fbc306504a48"><img width="80" alt="PCNE" src="assets/badge/google-cloud/professional-cloud-network-engineer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/b742e6bc-3e8a-4559-b9fd-fe4bc5a5aa3e"><img width="80" alt="PMLE" src="assets/badge/google-cloud/professional-machine-learning-engineer.png" /></a>
+
+<br>
+
+**Kubernetes / CNCF**
+
+<a href="https://www.credly.com/badges/81b63d69-4390-406c-a07c-4fa10399e930"><img width="80" alt="CKA" src="assets/badge/kubernetes/certified-kubernetes-administrator.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/2a281da3-43cc-4f95-a694-fbb179fedbcd"><img width="80" alt="CKAD" src="assets/badge/kubernetes/certified-kubernetes-application-developer.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/4f05020f-3922-4eec-8ff5-af6e93e490f2"><img width="80" alt="CKS" src="assets/badge/kubernetes/certified-kubernetes-security-specialist.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/4c90cecf-9959-49ff-aef1-2eac2ed9a586"><img width="80" alt="KCNA" src="assets/badge/kubernetes/kubernetes-and-cloud-native-associate.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/a6ec8e58-609d-44a1-94e7-86c135576c65"><img width="80" alt="KCSA" src="assets/badge/kubernetes/kubernetes-and-cloud-native-security-associate.png" /></a>&nbsp;
+<a href="https://www.credly.com/badges/6b5f4e86-4ddd-4e10-8f18-b6b8581bbbf1"><img width="80" alt="Kubestronaut" src="assets/badge/kubernetes/kubestronaut.png" /></a>
+
+</div>
+
+<!-- ──────────────────────── Publications ──────────────────────── -->
+
+### Publications
+
+<div align="center">
+  <img width="45" alt="IEEE" src="https://github.com/user-attachments/assets/6009b988-331e-4e60-a13f-28b9469018f9" />&emsp;
+  <img width="45" alt="JSCI" src="https://github.com/user-attachments/assets/799ea2b5-8734-4ea6-a10d-58bf2d2faa37" />&emsp;
+  <img width="45" alt="IIIS" src="https://github.com/user-attachments/assets/36b82889-bf15-4b0a-82ff-f71545caeee1" />&emsp;
+  <img width="45" alt="IPSJ" src="https://github.com/user-attachments/assets/12ecd7ae-89a3-49fb-927b-f7087e3ac304" />&emsp;
+  <img width="45" alt="IEICE" src="https://github.com/user-attachments/assets/a706591b-3efa-4816-bcc3-929356fd2597" />
+</div>
+
+<br>
+
+<!-- ──────────────────────────── Footer ──────────────────────────── -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:220000,50:4a1a1a,100:220000&height=120&section=footer" />
