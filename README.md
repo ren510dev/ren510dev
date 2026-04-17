@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:220000,50:4a1a1a,100:220000&height=220&section=header&text=ren510dev&fontColor=ff6b8a&fontSize=70&fontAlignY=35&desc=Site%20Reliability%20Engineer%20%7C%20Cloud%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=fdb8c0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0020,50:d43d60,100:8b0020&height=220&section=header&text=ren510dev&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Site%20Reliability%20Engineer%20%7C%20Cloud%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=fdb8c0&animation=fadeIn" />
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-**Site Reliability Engineer** at [@CyberAgent](https://github.com/CyberAgent) / **Cloud Platform Engineer** at [@ABEMA](https://github.com/AmebaTV)
+**Site Reliability Engineer** at [@CyberAgent](https://github.com/CyberAgent) / **Platform Engineer** at [@ABEMA](https://github.com/AmebaTV)
 
 </div>
 
@@ -29,7 +29,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ren510dev&include_all_commits=true&show_icons=true&hide=contribs&title_color=ff6b8a&icon_color=d43d60&text_color=fdb8c0&bg_color=220000&border_color=4a1a1a&ring_color=d43d60&count_private=true" />
 </a>&nbsp;
 <a href="https://github.com/ren510dev">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ren510dev&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren510dev&hide=html,css&layout=compact&langs_count=8&title_color=ff6b8a&text_color=fdb8c0&bg_color=220000&border_color=4a1a1a" />
 </a>
 
 <br><br>
@@ -107,4 +107,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:220000,50:4a1a1a,100:220000&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0020,50:d43d60,100:8b0020&height=120&section=footer" />
