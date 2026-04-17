@@ -1,0 +1,31 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fez/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: master
+          UTC_OFFSET: 9
+          THEME: custom
+          CUSTOM_THEME: >-
+            {
+              "title_color": "#ff6b8a",
+              "text_color": "#fdb8c0",
+              "icon_color": "#d43d60",
+              "border_color": "#4a1a1a",
+              "bg_color": "#220000",
+              "stroke_color": "#4a1a1a"
+            }
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

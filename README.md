@@ -29,7 +29,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ren510dev&include_all_commits=true&show_icons=true&hide=contribs&title_color=ff6b8a&icon_color=d43d60&text_color=fdb8c0&bg_color=220000&border_color=4a1a1a&ring_color=d43d60&count_private=true" />
 </a>&nbsp;
 <a href="https://github.com/ren510dev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren510dev&hide=html,css&layout=compact&langs_count=8&title_color=ff6b8a&text_color=fdb8c0&bg_color=220000&border_color=4a1a1a" />
+  <img height="170" src="profile-summary-card-output/custom/repos-per-language.svg" />
 </a>
 
 <br><br>
