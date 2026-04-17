@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0020,50:d43d60,100:8b0020&height=220&section=header&text=ren510dev&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Site%20Reliability%20Engineer%20%7C%20Cloud%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=fdb8c0&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0020,50:d43d60,100:8b0020&height=220&section=header&text=ren510dev&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Site%20Reliability%20Engineer%20%7C%20Platform%20Engineer&descAlignY=55&descSize=18&descColor=fdb8c0&animation=fadeIn" />
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-**Site Reliability Engineer** at [@CyberAgent](https://github.com/CyberAgent) / **Platform Engineer** at [@ABEMA](https://github.com/AmebaTV)
+**Site Reliability Engineer** / **Platform Engineer** at [@CyberAgent](https://github.com/CyberAgent) and [@ABEMA](https://github.com/AmebaTV)
 
 </div>
 
