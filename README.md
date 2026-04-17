@@ -26,15 +26,6 @@
 <div align="center">
 
 <a href="https://github.com/ren510dev">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ren510dev&include_all_commits=true&show_icons=true&hide=contribs&title_color=ff6b8a&icon_color=d43d60&text_color=fdb8c0&bg_color=220000&border_color=4a1a1a&ring_color=d43d60&count_private=true" />
-</a>&nbsp;
-<a href="https://github.com/ren510dev">
-  <img height="170" src="profile-summary-card-output/custom/repos-per-language.svg" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/ren510dev">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ren510dev&bg_color=220000&color=fdb8c0&line=d43d60&point=ff6b8a&area_color=4a1a1a&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=4a1a1a" />
 </a>
 
