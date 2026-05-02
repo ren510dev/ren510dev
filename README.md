@@ -26,7 +26,7 @@
 <div align="center">
 
 <a href="https://github.com/ren510dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ren510dev&bg_color=220000&color=fdb8c0&line=d43d60&point=ff6b8a&area_color=4a1a1a&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=4a1a1a" />
+  <img src="https://contribution-graph.ren510.dev/graph/ren510dev/activity-line.svg?theme=bordeaux" alt="Contribution Graph" />
 </a>
 
 </div>
